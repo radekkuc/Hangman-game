@@ -1,0 +1,4 @@
+﻿  Hangman.cpp
+C:\Users\Win10\source\repos\Hangman\Hangman\Hangman.cpp(26,8): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Win10\source\repos\Hangman\Hangman\Hangman.cpp(61,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Hangman.vcxproj -> C:\Users\Win10\source\repos\Hangman\x64\Debug\Hangman.exe
